@@ -5,15 +5,14 @@ Bonjour je suis promptologue avec 18 années d'une existence désastreuse, rempl
 
 Voici mes nombreuses compétences me permettant d'atteindre un haut niveau social dans la société actuelle .
 
-| Compétence                                      |
-| ----------------------------------------------- |
-| Est platine sur SF6.                            |
-| A atteint l'étage 10 sur GGST.                  |
-| A eu son BAC en 2024.                           | 
-| Sait lire (occasionelement) mais pas écrire   . |
-| A fait elden ring mais sans battre Radan.       |
-| A fait toute les armures sur MHWI.              |
-
+| Compétence                                      | Soft-skills    |
+| ----------------------------------------------- | -------------- |
+| Est platine sur SF6.                            | Boire          |
+| A atteint l'étage 10 sur GGST.                  | Manger         |
+| A eu son BAC en 2024.                           | Respirer       |
+| Sait lire (occasionelement) mais pas écrire   . | Glander        |
+| A fait elden ring mais sans battre Radan.       | Procrastiner   |
+| A fait toute les armures sur MHWI.              | Pomme de terre | 
 ---
 
 Voici un code qui m'a value plusieur compliment de Stephane Merillou 
