@@ -3,6 +3,8 @@ Bonjour je suis promptologue avec 18 années d'une existence désastreuse, rempl
 
 --- 
 
+Voici mes nombreuses compétences me permettant d'atteindre un haut niveau social dans la société actuelle .
+
 | Compétence                                      |
 | ----------------------------------------------- |
 | Est platine sur SF6.                            |
