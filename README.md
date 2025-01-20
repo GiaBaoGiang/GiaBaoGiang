@@ -9,6 +9,6 @@ Bonjour je suis pronptologue avec 18 année d'une existance désastreuse remplie
 | Est platine sur SF6.                      |             
 | A atteint l'étage 10 sur GGST.            |             
 | A eu son BAC en 2024.                     |             
-| Sait lire.                                |             
+| Sait lire (occasionelement)  .            |             
 | A fait elden ring mais sans battre Radan. |             
 | A fait toute les armures sur MHWI.        |             
