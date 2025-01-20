@@ -1,5 +1,4 @@
 <h1 align="center"> Gia Bao GIANG </h1>
-
 Bonjour je suis promptologue avec 18 années d'une existence désastreuse, remplie de pommes et de pamplemousses. Voici mon GitHub, qui vous permettra de découvrir mon avenir inexistant.
 --- 
 
