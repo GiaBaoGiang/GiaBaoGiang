@@ -1,1 +1,1 @@
-<h1> Gia Bao DJIAD </h1>
+<h1 align="center"> Gia Bao GIANG </h1>
