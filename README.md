@@ -12,3 +12,17 @@ Bonjour je suis pronptologue avec 18 année d'une existance désastreuse remplie
 | Sait lire (occasionelement) mais pas écrire   . |
 | A fait elden ring mais sans battre Radan.       |
 | A fait toute les armures sur MHWI.              |
+
+---
+
+Voici un code qui m'a value plusieur compliment de Stephane Merillou 
+
+```
+for i in range (8):
+	if i == 0 :
+		continue
+	print(i)
+	break
+
+```
+
