@@ -15,13 +15,3 @@ Voici mes nombreuses compétences me permettant d'atteindre un haut niveau socia
 | A fait toute les armures sur MHWI.              | Pomme de terre | 
 ---
 
-Voici un code qui m'a value plusieur compliment de Stephane Merillou 
-
-```
-for i in range (8):
-	if i == 0 :
-		continue
-	print(i)
-	break
-```
-
