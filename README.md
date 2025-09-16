@@ -1,17 +1,25 @@
 <h1 align="center"> Gia Bao GIANG </h1>
-Bonjour je suis pétrologue avec 18 années d'une existence désastreuse, remplie de pommes et de pamplemousses. Voici mon GitHub, qui vous permettra de découvrir mon avenir inexistant.
+<h3>Parcours </h3>
+Jeune étudiant motivé est passionnée d'informatique. Je suis titulaire du BAC générale spécialité Mathématique et NSI au lycée Raoul Dautry.
 
+Je suis intéressé par le développement d'application.
 --- 
 
-Voici mes nombreuses compétences me permettant d'atteindre un haut niveau social dans la société actuelle .
+<h3>A propos de moi </h3>
+- J'aime lire toutes sortes d'histoire que ce soit des romans,bd ou bien manga.
+- Je suis fan de jeux vidéo indépendant.
+- Les films d'horreurs
+---
 
-| Compétence                                      | Soft-skills    |
-| ----------------------------------------------- | -------------- |
-| Est platine sur SF6.                            | Boire          |
-| A atteint l'étage 10 sur GGST.                  | Manger         |
-| A eu son BAC en 2024.                           | Respirer       |
-| Sait lire (occasionelement) mais pas écrire   . | Glander        |
-| A fait elden ring mais sans battre Radan.       | Procrastiner   |
-| A fait toute les armures sur MHWI.              | Pomme de terre | 
+<h3>Compétences </h3>
+
+| Compétences | Niveau |
+| ----------- | ------ |
+| Python      | ⭐⭐⭐ |
+| Java        | ⭐⭐⭐ |
+| html        | ⭐⭐   |
+| mySql       | ⭐⭐   |
+| css         | ⭐⭐    |
+| c           | ⭐      | 
 ---
 
